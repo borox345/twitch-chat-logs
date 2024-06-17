@@ -16,4 +16,4 @@ To run script properly, read <a href="/Guide.md">Guide.md</a> file.
 <img src="https://i.imgur.com/SGUWuff.png">
 
 ## I can create custom Twitch Bot for you.
-If you need custom Twitch Bot with your feauteres just <a href="https://www.fiverr.com/s/qYN65V">reach me out here.</a>
+If you need custom Twitch Bot with your feauteres just <a href="https://streamingsupplies.xyz">reach me out here.</a>
