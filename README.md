@@ -1,6 +1,6 @@
 <div align="center">
 
-# ``🤖 Twitch chat messages logs``
+# ``💬 Twitch chat messages logs``
 Script that scrape every message from chat to text file. All you need to do is send single command.
 
 </div>
